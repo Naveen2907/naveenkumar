@@ -1,34 +1,114 @@
-# Hi 👋, I'm NAVEEN KUMAR C
+👋 Hi, I'm NAVEEN KUMAR C
 
-### Senior Full Stack .NET Developer | Software Engineer
+Senior Full Stack .NET Developer | Software Engineer
 
-💻 4+ years of experience in Full Stack Development
+💻 4+ years of experience building scalable enterprise applications.
 
-### 🚀 Tech Stack
+🚀 Passionate about backend architecture, full-stack development, API design, and developer-focused platforms.
 
-- C# | .NET 8 | ASP.NET Core
-- React.js | Angular | TypeScript | JavaScript
-- REST APIs | gRPC | JWT
-- Entity Framework Core | Dapper
-- SQL Server | PostgreSQL
-- Clean Architecture | SOLID | Design Patterns
-- SignalR | WebSockets
-- Docker | CI/CD | IIS
-- Power Apps | Power Automate | SharePoint
+---
 
-### 💼 Professional Experience
+🛠️ Tech Stack
 
-- Senior Software Developer – Novac Technologies
-- Full Stack Developer – JJSOFT Techno
-- Software Developer – Asirvad Micro Finance
+Backend
 
-### 🔥 Featured Project
+- C#
+- .NET 8
+- ASP.NET Core
+- ASP.NET MVC
+- REST APIs
+- Minimal APIs
+- gRPC
 
-**ConstructHub – AI-Powered Construction Platform**
+Frontend
 
-An interactive 3D home-design and construction platform built with React, Three.js, Node.js and PostgreSQL.
+- React.js
+- Angular
+- TypeScript
+- JavaScript
+- Tailwind CSS
 
-### 📫 Connect With Me
+Database
 
-- LinkedIn: https://www.linkedin.com/in/naveen-kumar-c-4254a2244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Email: cnaveenkumar6211@gmail.com
+- SQL Server
+- PostgreSQL
+- Entity Framework Core
+- Dapper
+- LINQ
+
+Architecture & Engineering
+
+- Clean Architecture
+- SOLID Principles
+- Design Patterns
+- Dependency Injection
+- Repository Pattern
+- API Design
+- JWT Authentication
+
+DevOps & Tools
+
+- Docker
+- CI/CD
+- IIS
+- Git
+- Visual Studio
+- VS Code
+- Postman
+- Swagger/OpenAPI
+
+Real-Time & Background Processing
+
+- SignalR
+- WebSockets
+- Quartz.NET
+
+Microsoft Power Platform
+
+- Power Apps
+- Power Automate
+- SharePoint Online
+
+---
+
+🚀 Featured Projects
+
+🏠 ConstructHub – AI-Powered Home Builder
+
+Interactive home-design and construction platform featuring 2D/3D planning, interactive floor-plan design, and AI-assisted planning.
+
+Tech: React, TypeScript, Vite, Three.js, Tailwind CSS, Node.js, Express.js, PostgreSQL
+
+🔗 "View Project" (https://github.com/Naveen2907/constructhub-app)
+
+---
+
+⚙️ Dynamic Entity Management Platform
+
+Metadata-driven enterprise framework for dynamic entity creation, configurable UI, business workflows, reporting, and background processing.
+
+Tech: .NET 8, ASP.NET Core, React.js, EF Core, Dapper, SQL Server, PostgreSQL, SignalR, Quartz.NET
+
+---
+
+💼 Professional Experience
+
+Senior Software Developer — Novac Technologies
+
+Building enterprise applications and configurable business frameworks using .NET 8, ASP.NET Core, React.js, SQL Server, PostgreSQL, SignalR, and related technologies.
+
+Previously worked with JJSOFT Techno and Asirvad Micro Finance across banking, finance, automotive, and telecom projects.
+
+---
+
+📫 Connect With Me
+
+📧 Email: cnaveenkumar6211@gmail.com
+
+💼 LinkedIn: [Add your LinkedIn URL]
+
+🐙 GitHub: https://github.com/Naveen2907
+
+---
+
+⭐ Feel free to explore my repositories and projects.
