@@ -101,13 +101,13 @@ Previously worked with JJSOFT Techno and Asirvad Micro Finance across banking, f
 
 ---
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 📧 Email: cnaveenkumar6211@gmail.com
 
-💼 LinkedIn: [Add your LinkedIn URL]
+💼 LinkedIn: [Naveen Kumar C](https://www.linkedin.com/in/naveen-kumar-c-4254a2244/)
 
-🐙 GitHub: https://github.com/Naveen2907
+🐙 GitHub: [Naveen2907](https://github.com/Naveen2907)
 
 ---
 
